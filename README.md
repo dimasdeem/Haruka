@@ -52,7 +52,7 @@ Click the deploy icon below !
 ## Termux
 ```bash
 > apt update && apt upgrade
-> pkg install libweb nodejs git ffmpeg
+> pkg install libwebp nodejs git ffmpeg
 > git clone https://github.com/zeeone-ofc/Haruka.git
 > cd Haruka
 > npm install
@@ -64,28 +64,10 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	"ownername":"ZeeoneOfc",
+	"ownername":"dimasdeem",
 	"ownernumber":"62887435047326",
 	"botname":"Haruka-Bot",
 	"thumbnail":"./settings/haruka.jpg",
 	"session_name":"./session.json"
 }
 ```
-## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
-
-# Thanks To
-- My god & my parents
-- Penyedia module
-- Teman" yang selalu support saya
-- Kalian semua 🛐
